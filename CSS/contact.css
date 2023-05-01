@@ -45,7 +45,7 @@
 }
 .textarea{
     position: relative;
-    bottom: 90px;
+    bottom: 0px;
 }
 .ScrollTop{
     position: fixed;
