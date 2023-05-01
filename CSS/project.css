@@ -71,3 +71,19 @@
     margin-top: 16px;
     font-size: 18px;
 }
+.ScrollTop{
+    position: fixed;
+    bottom: 5px;
+    right: 15px;
+    padding: 10px 15px;
+    background-color: #0000;
+    color: #fff;
+    border-radius: 5px;
+    border-radius: 1px solid #fff;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+} 
+.ScrollTop:hover{
+    background-color: #f7f7f7;
+    color: #000;
+} 
