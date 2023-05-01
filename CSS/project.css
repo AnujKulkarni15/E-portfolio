@@ -1,0 +1,73 @@
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-item{
+    font-size: 1.2em;
+}
+.container-fluid{
+    padding: 0% 15%;
+}
+.start{
+    background-color:#bcc7d1 ;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.headtext{
+    text-align: left;
+    font-weight: 900;
+    font-size: 2.6em;
+    font-family: 'Sigmar', cursive;
+    padding-top: 30px;
+
+}
+.paratext{
+    font-size: 1.1em;
+}
+
+.our{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+
+#second{
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 1px;
+    color: aliceblue;
+}
+.col1{
+    background-color: rgb(179, 188, 188);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col2{
+    padding-left: 135px;
+}
+.column{
+    text-align: center;
+}
+.icon1{
+    position: relative;
+    right: 40px;
+}
+.icon3{
+    position: relative;
+    left: 40px;   
+}
+.copywrite{
+    padding-top: 50px;
+    text-align: center;
+}
+.img1{
+    width: 70%;
+}
+.sub-text{
+    font-weight: 700;
+    color: darkred;
+    text-decoration:underline;
+}
+.para-text{
+    margin-top: 16px;
+    font-size: 18px;
+}

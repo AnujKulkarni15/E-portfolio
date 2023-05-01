@@ -1,0 +1,73 @@
+body{
+    display:inline-table;
+}
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-item{
+    font-size: 1.2em;
+}
+.image1{
+    width: 55%;
+    /* object-fit: cover;
+    border-radius: 44%; */
+    border-style: none;
+    margin-left: 5px;
+    margin-top: 35px;
+}
+#first{
+    padding-bottom: 30px;
+}
+.container-fluid{
+    padding: 0% 15%;
+}
+.heading{ 
+    font-family: 'Roboto', sans-serif;
+    font-size: 6em;
+}
+.card{
+    margin-left: 312px;
+    width: 25rem;
+    height: 10px;
+    text-align: center;
+    border: solid;
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    padding: 30px 90px 0px 90px;
+}
+.line{
+    margin-left: 135px;
+    margin-right: 135px;
+    border: solid 2px;
+}
+#second{
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 1px;
+    color: aliceblue;
+}
+.col1{
+    background-color: rgb(179, 188, 188);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col2{
+    padding-left: 135px;
+}
+.column{
+    text-align: center;
+}
+.icon1{
+    position: relative;
+    right: 40px;
+}
+.icon3{
+    position: relative;
+    left: 40px;   
+}
+.copywrite{
+    padding-top: 50px;
+    text-align: center;
+}

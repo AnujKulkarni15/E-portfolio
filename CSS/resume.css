@@ -1,0 +1,89 @@
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-item{
+    font-size: 1.2em;
+}
+.container-fluid{
+    padding: 0% 15%;
+}
+.start{
+    background-color:#bcc7d1;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.headtext{
+    text-align: center;
+    font-size: 2.6em;
+    font-family: 'Sigmar', cursive;
+    padding-top: 30px;
+
+}
+.boxedu1{
+    position: relative;
+    right: 145px;
+    top: 90px;
+}
+.boxedu2{
+    position: relative;
+    right: 155px;
+    top: 90px;
+}
+.boxedu3{
+    position: relative;
+    right: 175px;
+    top: 90px;
+}
+.boxedu4{
+    position: relative;
+    right: 135px;
+    top: 90px;
+}
+.textedu{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+}
+.card{
+    border: solid 10px;
+    margin-top: 100px;
+}
+.card-text{
+    text-align: left;
+    padding-left: 12px;
+}
+.skilltext{
+    text-align: left;
+    font-weight: bolder;
+}
+
+
+#second{
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 1px;
+    color: aliceblue;
+}
+.col1{
+    background-color: rgb(179, 188, 188);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col2{
+    padding-left: 135px;
+}
+.column{
+    text-align: center;
+}
+.icon1{
+    position: relative;
+    right: 40px;
+}
+.icon3{
+    position: relative;
+    left: 40px;   
+}
+.copywrite{
+    padding-top: 50px;
+    text-align: center;
+}
